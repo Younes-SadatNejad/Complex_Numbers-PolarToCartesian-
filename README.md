@@ -1,4 +1,4 @@
-# Complex Numbers(Cartesian To Polar)
+# Complex Numbers(Polar To Cartesian)
 This GUI is part of Signals & Systems I - developed at Ryerson University by Soosan Beheshti and Younes Sadat-Nejad.
 For more information about the course, visit:
 https://www.ee.ryerson.ca/~courses/ss1/
